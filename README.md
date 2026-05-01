@@ -15,4 +15,5 @@ A simple Chrome extension for saving links and the current browser tab.
 2. Turn on **Developer mode**
 3. Click **Load unpacked**
 4. Select this project folder
-_._
+
+Thank you
